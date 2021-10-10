@@ -2,7 +2,7 @@
 p,h1,h2,h3,h4,h5,h6{
     margin-bottom: 0;
 }
-
+img{width:100%;}
 
 
 
@@ -25,4 +25,24 @@ header .icon i{
 }
 header #topDate{
     margin-right: 20px;
+}
+
+/* header logo */
+.header_logo img{
+    width:25%;
+}
+
+/* menu section */
+
+.right_search input{
+    outline:none;
+    padding: 0 15px;
+    height: 40px;
+    border-width: 0px;
+    border-bottom-width: 1px;
+}
+.menu ul li a{
+    text-transform: uppercase;
+    font-weight: bold;
+    /* color: rgb(0, 0 ,0 , 90%); */
 }
