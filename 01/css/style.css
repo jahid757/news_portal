@@ -1,0 +1,28 @@
+*{margin: 0;padding: 0;box-sizing: border-box}
+p,h1,h2,h3,h4,h5,h6{
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
+/* header */
+header{
+    background:#000;
+    color:#fff;
+    padding: 20px 0;
+}
+
+header .right-section p:first-child{
+    margin-right: 15px;
+}
+header .icon i{
+    margin-right: 10px; 
+    color:#fff
+}
+header #topDate{
+    margin-right: 20px;
+}
